@@ -4,7 +4,7 @@
 //8-order IIR filter with 4 sections
 const int sections = 4;
 
-////nominator
+//nominator
 const float b[4][3] = {
 	{ 1, -1.984454421, 1 },
 	{ 1, -1.999405318, 1 },
